@@ -25,7 +25,7 @@ SECRET_KEY = 'd#ez25avyq*a4i+ree5gin6rnknut=8^1e$*(9hbbzdtc24x1d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'tminter.pythonanywhere.com']
 
 
 # Application definition
